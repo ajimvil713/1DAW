@@ -16,7 +16,6 @@ public class Ejercicio2 {
 		int dado = random.nextInt(6 - 1 + 1) + 1;
 		
 		System.out.println(dado);
-
 	}
 
 }
