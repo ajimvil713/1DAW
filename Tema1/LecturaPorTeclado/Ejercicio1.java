@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	
-	/* Enunciado
+	/* Enunciado:
 	 * 
 	 * Solicítale al usuario los siguientes datos. A continuación, muéstralos por consola:
 	 * 1. Nombre
