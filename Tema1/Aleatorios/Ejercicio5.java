@@ -14,11 +14,10 @@ public class Ejercicio5 {
 		
 		int dia = random.nextInt(7 - 1 + 1) + 1;
 		
+		System.out.println("El dia de la semana es: " + dia);
 		if (dia == 6 || dia == 7) {
-			System.out.println("El dia de la semana es: " + dia);
 			System.out.println("Es fin de semana");
 		} else {
-			System.out.println("El dia de la semana es: " + dia);
 			System.out.println("No es fin de semana");
 		}
 	}
