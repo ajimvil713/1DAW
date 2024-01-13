@@ -15,7 +15,6 @@ public class Ejercicio3 {
 		int numero = random.nextInt(68 - 34 + 1) + 34;
 		
 		System.out.println(numero);
-
 	}
 
 }
