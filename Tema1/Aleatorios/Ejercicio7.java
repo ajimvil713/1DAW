@@ -31,7 +31,7 @@ public class Ejercicio7 {
 		case 5:
 			System.out.println("Viernes");
 			break;
-	case 6:
+		case 6:
 			System.out.println("Sábado");
 			break;
 		case 7:
@@ -41,7 +41,6 @@ public class Ejercicio7 {
 			System.out.println("Error el numero de la semana no se ha generado correctamente");
 			break;
 		}
-
 	}
 
 }
