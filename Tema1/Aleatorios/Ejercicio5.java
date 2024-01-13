@@ -14,7 +14,7 @@ public class Ejercicio5 {
 		
 		int dia = random.nextInt(7 - 1 + 1) + 1;
 		
-		System.out.println("El dia de la semana es: " + dia);
+		System.out.println("El numero aleatorio (Dia de la semana) es: " + dia + " por lo tanto");
 		if (dia == 6 || dia == 7) {
 			System.out.println("Es fin de semana");
 		} else {
