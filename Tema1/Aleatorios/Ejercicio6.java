@@ -15,7 +15,7 @@ public class Ejercicio6 {
 		
 		int mes = random.nextInt(12 - 1 + 1) + 1;
 		
-		System.out.println("El dia del mes es: " + mes);
+		System.out.println("El numero aleatorio (mes) es: " + mes + " por lo tanto");
 		if (mes == 6 || mes == 7) {
 			System.out.println("Es verano");
 		} else {
