@@ -2,7 +2,7 @@ package EjerciciosRepaso;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio3c {
 	
 	/* Enunciado:
 	 * 
