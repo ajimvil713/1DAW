@@ -16,8 +16,8 @@ public class Ejercicio2 {
 	 * anteriormente en los argumentos:
 	 * 
 	 * 10
-	 *  +10
-	 *  -10
+	 * +10
+	 * -10
 	 * 13,27
 	 *   +13,2698
 	 *   13,26983
