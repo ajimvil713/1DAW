@@ -2,7 +2,7 @@ package LecturaPorTeclado;
 
 import static LecturaPorTeclado.colores.*;
 
-public class Ejercicio1 {
+public class Ejercicio4 {
 	
 	/* Enunciado:
 	 * 
