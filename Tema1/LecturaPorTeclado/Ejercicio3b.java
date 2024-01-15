@@ -3,7 +3,7 @@ package EjerciciosRepaso;
 import java.util.Scanner;
 import static EjerciciosRepaso.ClaseColores.*;
 
-public class Ejercicio2b {
+public class Ejercicio3b {
 	
 	/* Enunciado:
 	 * 
