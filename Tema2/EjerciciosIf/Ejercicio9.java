@@ -2,7 +2,7 @@ package EjerciciosIf;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio9 {
 	
 	/* Enunciado:
 	 * 
