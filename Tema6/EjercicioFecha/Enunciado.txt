@@ -1,0 +1,13 @@
+Crea la clase Fecha en la que tenemos:
+
+tres atributos: int dia, int mes, int año
+
+Añadir los métodos
+
+ verFecha()  que devuelve la fecha en el formato dia/mes/año.
+
+contarDias(Fecha fecha) que devuelva la diferencia de días entre dos fechas.
+
+añade los getter y setter para ver o modificar sus atributos.
+
+La clase debe ser consistente. No debe permitir días mayores de 31, meses mayores de 12 y años mayores a 9999.
