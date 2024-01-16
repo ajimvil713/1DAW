@@ -2,7 +2,7 @@ package EjerciciosDeBucles;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio4 {
 	
 	/* Enunciado:
 	 * 
