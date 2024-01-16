@@ -12,6 +12,7 @@ public class ClaseReloj {
 		comprobarHora(hora);
 		comprobarMinutos(minutos);
 		comprobarSegundos(segundos);
+		
 		this.hora = hora;
 		this.minutos = minutos;
 		this.segundos = segundos;
@@ -68,7 +69,7 @@ public class ClaseReloj {
 	
 	private void comprobarHora(byte hora) {
 		if (hora < 0 || hora > 23) {
-            throw new InputMismatchException("Error, La hora no es correcta.");
+			throw new InputMismatchException("Error, La hora no es correcta.");
 		}
 	}
 	
