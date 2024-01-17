@@ -1,0 +1,30 @@
+# Ejercicio1.java
+
+Realiza una función que lea una cadena por teclado y devuelva si es tiene una longitud de más de seis cifras.
+
+# Ejercicio2.java
+
+Realiza un procedimiento que pida un número por teclado y devuelva si tiene  más de una cifra.
+
+# Ejercicio3a.java
+
+Realiza un procedimiento que pida un número por teclado e imprima las unidades y las decenas, de 
+la siguiente manera: (hacerlo con printf)
+
+numero 25
+
+Unidades = 5          Decenas = 2
+
+# Ejercicio3b.java
+
+Realiza el mismo ejercicio pero debe leer dos números
+
+numero 25
+numero 34
+
+Unidades = 5          Decenas = 2
+Unidades = 4          Decenas = 3
+
+# Ejercicio3c.java
+
+Realiza el mismo ejercicio indicando si algún número es menor que 10
