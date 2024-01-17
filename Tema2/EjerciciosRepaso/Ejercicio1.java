@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
   
-	/* Enunciado:
-	 * 
-	 * Realiza una función que lea una cadena por teclado y devuelva si es tiene una longitud de más de seis cifras.
-	 */
-  
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		
@@ -25,7 +20,6 @@ public class Ejercicio1 {
 	
 	// Función que devuelve si la cadena tiene más de 6 cifras
 	public static void leerCadena(String cadena) {
-		
 		if (cadena.length() >= 6) {
 			System.out.println("La longitud de la cadena es mayor o igual a 6 caracteres");
 		} else {
