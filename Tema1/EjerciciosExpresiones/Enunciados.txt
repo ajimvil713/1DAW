@@ -1,0 +1,103 @@
+# Ejercicio1.txt
+
+Indica cuáles de los siguientes nombres no son identificadores de variables correctos:
+  a) hola
+  b) "a"
+  c) 1nombre
+  d) mi variable
+  e) mi_variable
+  f) esto_es_una_variable
+  g) nombre1
+
+# Ejercicio2.txt
+
+Calcula el resultado de las siguientes expresiones:
+  a) 3 * 4 - 4 / 2
+  b) 3 – (4 * 5)^2 / 4
+  c) 3^2 – 5 * 2
+  d) 7 – 4 * 2 – 5 * 2
+  e) 5 + 4 < 7 + 8
+  f) 4 < 5 * 4 / 2 – 7
+  g) 3 + 6 * 14
+  h) 8 + 7 * 3 + 4 * 6
+  i) -4 * 7 + 2^3 / 4 – 5
+  j) 12 + 3 * 7 + 5 * 4
+  k) !(4 > 6)
+  l) 7^3 / 2 + 6
+
+# Ejercicio3.txt
+
+Dados los siguientes valores para las variables booleanas a, b y c ( a = true,
+b = false y c = true), evaluar las expresiones que aparecen a continuación:
+  a) a && b || a && c
+  b) (a || ! b) && (! a || c)
+  c) a || b && c
+  d) !(a || b) && c
+
+# Ejercicio4.txt
+
+De las siguientes asignaciones ¿cuáles son válidas? ¿Cuál es el efecto de su ejecución? ¿De
+qué tipo deben ser las variables?
+  a) z = 2 < 1
+  b) a = a + 1
+  c) sqrt(3) = 32717
+  d) ‘x’ = ‘y’
+  e) x = ‘y’
+  f) a = b
+  g) precio = precio – precio*(30/100)
+
+# Ejercicio5.txt
+
+Dados los siguientes valores de las variables x, y, j y k, añadir los paréntesis que sean
+necesarios para que las expresiones que las siguen evalúen a verdadero: x = 10; y = 19;
+j = true; k = false
+  a) x == y || j 
+  b) x >= y || x <= y && j
+  c) !j || j
+  d) !k && k
+
+# Ejercicio6.txt
+
+Sea MAX una constante que vale 1000, a, b e i variables enteras, x una variable decimal, c una
+variable carácter y s una variable cadena. Indicar las sentencias válidas y su valor, razonando la
+respuesta.
+Suponer a = 3 y b = 4.
+  a) i = (990 - MAX) / a
+  b) i = b / 0 
+  c) i = a % (MAX - 990)
+  d) i = (MAX - 990) % a
+  e) i = 3.34 * a 
+  f) x = a / b
+  g) x = a % (a / b) 
+  h) i = a / b 
+  i) i = ++a
+  j) i = a++
+  k) c = ''';
+  l) c = '”';
+  m) s = 'c';
+  n) s = ”'”;
+  o) s = ”””;
+  p) c = '\u0041';
+  q) c = 65
+
+# Ejercicio7.txt
+
+Suponiendo realizadas las siguientes sentencias de asignación: lado1 = 3; precio = 325.6;
+lado2 = 4; comprar = false; hipotenusa = 5; ch = ‘7’. Determinar cuáles de las expresiones
+siguientes dan un resultado booleano y cuáles no. Para aquellas que produzcan un resultado
+booleano determinar si el resultado es verdadero o falso. Para las que no lo sean, explicar la
+razón. Indicar también si existe alguna expresión errónea.
+  a) 5 * precio – 1.50
+  b) (precio < 300 + 0.1 * precio) || comprar
+  c) sqrt(lado1) + sqrt(lado2) = sqrt(hipotenusa)
+  d) (!comprar) && (precio + 125.3)
+  e) (ch <= ‘A’) && comprar
+  f) ch = ‘7’ || !comprar 
+
+# Ejercicio8.txt
+
+Sea n un dato de tipo Entero que suponemos positivo. Empareja las expresiones con la
+descripción que les corresponda:
+  a) El mayor número par no superior a n              1) (n / 2) * 2
+  b) El primer numero par mayor o igual que n         2) n + (n+1) % 2
+  c) El primer impar mayor o igual que n              3) ((n+1) / 2) * 2
