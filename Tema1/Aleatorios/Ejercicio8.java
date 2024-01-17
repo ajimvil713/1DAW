@@ -4,11 +4,6 @@ import java.util.Random;
 
 public class Ejercicio8 {
 	
-	/* Enunciado:
-	 * 
-	 * Un mes del año y mostrar qué mes del año es. 
-	 */
-	
 	public static void main(String[] args) {
 		Random random = new Random();
 		
