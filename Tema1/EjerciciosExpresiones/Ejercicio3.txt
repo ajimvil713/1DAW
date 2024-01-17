@@ -1,0 +1,4 @@
+a) TRUE && FALSE || TRUE && TRUE = FALSE || TRUE = TRUE
+b) (TRUE || !FALSE) && (!TRUE || TRUE) = (TRUE || TRUE) && (FALSE || TRUE) = TRUE && TRUE = TRUE
+c) TRUE || FALSE && TRUE = TRUE && TRUE = TRUE
+d) !(TRUE || FALSE) && TRUE = !FALSE && TRUE = FALSE && TRUE = FASLE
