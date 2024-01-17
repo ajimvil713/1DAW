@@ -4,21 +4,6 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	
-	/* Enunciado:
-	 * 
-	 * Solicítale al usuario los siguientes datos. A continuación, muéstralos por consola:
-	 * 1. Nombre
-	 * 2. Apellidos
-	 * 3. Edad
-	 * 4. Dirección:
-	 * 	○ Calle
-	 * 	○ Número
-	 * 	○ Código postal
-	 * 	○ Provincia
-	 * 5. Si es estudiante (boolean)
-	 * 6. Altura (con decimales)
-	 */
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		
