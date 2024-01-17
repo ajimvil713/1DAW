@@ -4,12 +4,6 @@ import java.util.Random;
 
 public class Ejercicio6 {
 	
-	/* Enunciado:
-	 * 
-	 * Un mes del año y mostrar si es verano o no 
-   	 * (entenderemos como verano los meses de julio y agosto).
-	 */
-	
 	public static void main(String[] args) {
 		Random random = new Random();
 		
