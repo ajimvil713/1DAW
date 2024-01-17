@@ -3,11 +3,6 @@ package EjerciciosIf;
 import java.util.Scanner;
 
 public class Ejercicio2 {
-	
-	/* Enunciado:
-	 * 
-	 * Realiza un programa que pida un número por teclado y nos indique si es par o impar.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
