@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio9 {
-	
-	/* Enunciado:
-	 * 
-	 * Algoritmo que lea dos números float por teclado e indique  los números enteros que hay entre ellos: por ejemplo 34,54 y 37,5 daría 35, 36, 37.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
