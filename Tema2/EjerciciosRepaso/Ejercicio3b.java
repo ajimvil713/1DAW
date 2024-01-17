@@ -5,15 +5,6 @@ import static EjerciciosRepaso.ClaseColores.*;
 
 public class Ejercicio3b {
 	
-	/* Enunciado:
-	 * 
-	 * Realiza el mismo ejercicio pero debe leer dos números
-	 * numero 25
-	 * numero 34
-	 * Unidades = 5                 Decenas = 2
-	 * Unidades = 4                 Decenas = 3
-	 */
-	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		
