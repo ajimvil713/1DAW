@@ -3,11 +3,6 @@ package Aleatorios;
 import java.util.Random;
 
 public class Ejercicio1 {
-	
-	/* Enunciado:
-	 * 
-	 * La cara de una moneda.
-	 */
 
 	public static void main(String[] args) {
 		Random random = new Random();
