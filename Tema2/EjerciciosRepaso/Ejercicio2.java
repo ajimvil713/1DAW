@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class Ejercicio2 {
 	
-	/* Enunciado:
-	 * 
-	 * Realiza un procedimiento que pida un número por teclado y devuelva si tiene más de una cifra.
-	 */
-	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
 		
