@@ -4,11 +4,6 @@ import java.util.Random;
 
 public class Ejercicio7 {
 	
-	/* Enunciado:
-	 * 
-	 * Un día de la semana y mostrar qué día de la semana es.
-	 */
-	
 	public static void main(String[] args) {
 		Random random = new Random();
 		
