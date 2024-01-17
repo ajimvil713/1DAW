@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio8 {
-	
-	/* Enunciado:
-	 * 
-	 * Algoritmo que pase un número a binario.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
