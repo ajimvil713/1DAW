@@ -1,0 +1,43 @@
+# Ejercicio1.java
+
+Tenemos la pantalla del móvil bloqueada. Partiendo de un PIN_SECRETO, intentaremos desbloquear 
+la pantalla. Tenemos hasta 5 intentos.  En caso de acceder, lanza al usuario 'login correcto'. Sino, 'llamando 
+al policía'.
+
+# Ejercicio2.java
+
+Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle do-while.
+
+# Ejercicio3.java
+
+Realiza un programa que vaya pidiendo números hasta que se introduzca un numero negativo y
+  * nos diga cuantos números se han introducido, la media de los impares y el mayor de los pares.
+  * El número negativo sólo se utiliza para indicar el final de la introducción de datos pero no
+  * se incluye en el cómputo.
+
+# Ejercicio4.java
+
+Realiza un programa que pida letras hasta que se introduzca un número, en la salida deberá mostrar 
+el número de letras introducidas y las letras concatenadas y separadas por un espacio en blanco.
+
+# Ejercicio5.java
+
+Realiza un programa que dada un número long, imprima sus cifras separadas.
+
+# Ejercicio6.java
+
+Algoritmo que pida caracteres e imprima ‘VOCAL’ si son vocales y ‘NO VOCAL’ en caso contrario, el 
+programa termina cuando se introduce un espacio.
+
+# Ejercicio7.java
+
+Algoritmo que dado un número long, devuelva cuántas cifras tiene. (no usar String).
+
+# Ejercicio8.java
+
+Algoritmo que pase un número a binario.
+
+# Ejercicio9.java
+
+Algoritmo que lea dos números float por teclado e indique  los números enteros que hay entre ellos: 
+por ejemplo 34,54 y 37,5 daría 35, 36, 37.
