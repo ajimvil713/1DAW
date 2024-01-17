@@ -1,0 +1,31 @@
+# Ejercicio1.java
+
+La cara de una moneda.
+
+# Ejercicio2.java
+
+El lanzamiento de un dado.
+
+# Ejercicio3.java
+
+Un número entre 34 y 68 ambos incluidos.
+
+# Ejercicio4.java
+
+Un número decimal.
+
+# Ejercicio5.java
+
+Un día de la semana y mostrar si es fin de semana o no.
+
+# Ejercicio6.java
+
+Un mes del año y mostrar si es verano o no (entenderemos como verano los meses de julio y agosto).
+
+# Ejercicio7.java
+
+Un día de la semana y mostrar qué día de la semana es.
+
+# Ejercicio8.java
+
+Un mes del año y mostrar qué mes del año es.
