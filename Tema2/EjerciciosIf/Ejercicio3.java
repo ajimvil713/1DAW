@@ -3,11 +3,6 @@ package EjerciciosIf;
 import java.util.Scanner;
 
 public class Ejercicio3 {
-	
-	/* Enunciado:
-	 * 
-	 * Crea un programa que pida al usuario dos números y muestre el resultado de su división. Si el segundo número es 0, debe mostrar un mensaje de error. 
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
