@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio7 {
-	
-	/* Enunciado:
-	 * 
-	 * Algoritmo que dado un número long, devuelva cuántas cifras tiene. (no usar String).
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
