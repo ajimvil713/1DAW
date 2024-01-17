@@ -1,0 +1,57 @@
+# Ejercicio1.java
+
+Dada una cantidad, si es mayor de 1000, que muestre el 15% de dicha cantidad. Si no,
+que no haga nada.
+
+# Ejercicio2.java
+
+Dado un número, indicar si es par o impar.
+
+# Ejercicio3.java
+
+Dados dos números, indicar si el primero es múltiplo del segundo. Un número x es
+múltiplo de y, si al dividir x entre y, el resto es 0.
+
+# Ejercicio4.java
+
+Dado un número entero, indicar si el número es positivo, negativo o cero.
+
+# Ejercicio5.java
+
+Dada una nota, que te muestre lo siguiente: (hacerlo con anidación y con switch)
+  * 0, 1, 2: Muy deficiente
+  * 3, 4: Insuficiente
+  * 5: Suficiente
+  * 6: Bien
+  * 7, 8: Notable
+  * 9, 10: Sobresaliente
+
+# Ejercicio6.java
+
+Dados tres números positivos, indicar cuántos son iguales. Por ejemplo: Si la entrada
+fuese 5 5 5, la salida debería ser Hay tres números iguales a 5 . Si la entrada fuese
+4 6 4, la salida debería ser Hay dos números iguales a 4 . Si la entrada fuese 0 1 2, la
+salida debería ser No hay números iguales.
+
+# Ejercicio7.java
+
+Dados tres números, mostrarlos en orden ascendente.
+
+# Ejercicio8.java
+
+Realiza un programa que calcule el precio de un billete de ida y vuelta por avión,
+conociendo la distancia a recorrer, el número de días de estancia y sabiendo que si la
+distancia es superior a 1.000 Km y el número de días de estancia es superior a 7, la
+línea aérea le hace un descuento del 30 %. El precio por kilómetro es de 0,35 €. 
+
+# Ejercicio9.java
+
+Dada una cadena, mostrar uno de sus caracteres elegidos aleatoriamente. Mostrar
+también en qué posición se encuentra dicho carácter.
+
+# Ejercicio10.java
+
+Realiza un programa que saque una carta aleatoria de una baraja con 4 palos y 13
+cartas por cada palo. Los palos son Picas ♠, Corazones ♥, Diamantes ♦ y Tréboles ♣. Las
+13 cartas por cada palo irán del as al diez y además tres figuras: jota, reina y rey.
+Mostrar la carta incluyendo el símbolo del palo (♠, ♥, ♦, ♣).
