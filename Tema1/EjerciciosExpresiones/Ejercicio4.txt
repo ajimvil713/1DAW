@@ -1,0 +1,21 @@
+a) Ejecución: Valida
+   Resultado: FALSE
+   Tipo: boolean
+b) Ejecución: Valida, siempre y cuando a se haya declarado e inicalizado antes
+   Resultado: El numero siguiente de a
+   Tipo: byte, short, int o long
+c) Ejecución: Invalida
+   Resultado: ---
+   Tipo: ---
+d) Ejecución: Invalida
+   Resultado: ---
+   Tipo: ---
+e) Ejecución: Valida
+   Resultado: Almacenamos el caracter y
+   Tipo: char o String
+f) Ejecución: Valida, siewmpre y cuando b haya sido declarada e inicializada antes
+   Resultado: Almacenamos el contenido de b
+   Tipo: Depende ed la inicialización de b
+g) Ejecución: Valida, siempre y cuando precio haya sido declarado e inicializado antes
+   Resultado: Aplicamos un 30% de desucento al valor de precio
+   Tipo: byte, short, int, long, float o left
