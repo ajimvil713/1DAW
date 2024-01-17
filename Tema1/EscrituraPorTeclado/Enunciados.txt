@@ -1,0 +1,41 @@
+# Ejercicio1.java
+
+Muestra en consola lo siguiente, exactamente igual, utilizando System.out.print:
+La letra número "101" es la :        'e'
+    El carácter '\' es:
+          "especial"
+
+# Ejercicio2.java
+
+Utilizando las siguientes variables:
+int x = 10;
+int y = -10;
+float n = 13.269834f;
+String cad = “Ana”;
+
+Muestra en consola el siguiente resultado, exactamente igual,
+utilizando System.out.printf , sin utilizar espacios ni tabulación
+en la cadena de formato y utilizando solamente las variables indicadas
+anteriormente en los argumentos:
+
+10
++10
+-10
+13,27
+  +13,2698
+  13,26983
+ +00013,270
+n=13,27   x=10
+      AnaAna  Ana
+
+# Ejercicio3.java
+
+Muestra en consola los siguientes símbolos:
+1. ❤
+2. ☂
+3. ☎
+4. ♞
+
+# Ejercicio4.java
+
+Muestra en consola una línea de texto con 3 colores y fondos diferentes usando solamente un printf.
