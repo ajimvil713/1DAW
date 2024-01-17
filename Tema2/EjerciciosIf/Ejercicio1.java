@@ -3,11 +3,6 @@ package EjerciciosIf;
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	
-	/* Enunciado:
-	 * 
-	 * Realiza un programa que reciba dos números por teclado e indique cuál es mayor o si son iguales. 
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
@@ -27,7 +22,6 @@ public class Ejercicio1 {
 		} else {
 			System.out.println("Has introducido 2 numeros iguales");
 		}
-
 	}
 
 }
