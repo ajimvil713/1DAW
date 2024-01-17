@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio4 {
-	
-	/* Enunciado:
-	 * 
-	 * Realiza un programa que pida letras hasta que se introduzca un número, en la salida deberá mostrar el número de letras introducidas y las letras concatenadas y separadas por un espacio en blanco.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
