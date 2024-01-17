@@ -3,11 +3,6 @@ package EjerciciosIf;
 import java.util.Scanner;
 
 public class Ejercicio8 {
-	
-	/* Enunciado:
-	 * 
-	 * Escribe un programa que reciba un año y nos diga si es bisiesto o no. 
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
