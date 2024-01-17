@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio1 {
-	
-	/* Enunciado:
-	 * 
-	 * Tenemos la pantalla del móvil bloqueada. Partiendo de un PIN_SECRETO, intentaremos desbloquear la pantalla. Tenemos hasta 5 intentos.  En caso de acceder, lanza al usuario 'login correcto'. Sino, 'llamando al policía'.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
