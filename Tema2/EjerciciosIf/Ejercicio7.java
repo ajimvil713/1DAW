@@ -3,11 +3,6 @@ package EjerciciosIf;
 import java.util.Scanner;
 
 public class Ejercicio7 {
-	
-	/* Enunciado:
-	 * 
-	 * Realiza un programa que clasifique un triángulo tras recibir el tamaño de sus lados. Se debe clasificar como triángulo rectángulo, isósceles, equilátero o escaleno. 
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
