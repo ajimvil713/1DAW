@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio5 {
-	
-	/* Enunciado:
-	 * 
-	 * Realiza un programa que dada un número long, imprima sus cifras separadas.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
