@@ -3,11 +3,6 @@ package EjerciciosDeBucles;
 import java.util.Scanner;
 
 public class Ejercicio6 {
-	
-	/* Enunciado:
-	 * 
-	 * Algoritmo que pida caracteres e imprima ‘VOCAL’ si son vocales y ‘NO VOCAL’ en caso contrario, el programa termina cuando se introduce un espacio.
-	 */
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner (System.in);
