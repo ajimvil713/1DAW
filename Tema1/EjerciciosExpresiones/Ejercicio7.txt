@@ -1,0 +1,6 @@
+a) 5 * 325.6 - 1.50; 1628 - 1.50; 1626.5
+b) (325.6 < 300 + 0.1 * 325.6) || FALSE; (325.6 < 300 + 32.56) || FALSE; (325.6 < 332.56) || FALSE; TRUE || FALSE; TRUE
+c) Error, no se que es sqrt()
+d) (!FALSE) && (325.6 + 125.3); TRUE && 450.9; Error, el resultao despues del && tiene que ser de tipo booleano
+e) (7 <= 'A') && FALSE; TRUE && FALSE; FALSE
+f) 7 || TRUE; Error, el resultao antes del || tiene que ser de tipo booleano
