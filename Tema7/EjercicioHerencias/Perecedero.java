@@ -1,4 +1,4 @@
-package EjercicioErencias;
+package EjercicioHerencias;
 
 public class Perecedero extends Producto{
 	
