@@ -1,4 +1,4 @@
-package Animales;
+package EjemploAnimales;
 
 public class Mamifero extends Animales {
 	
