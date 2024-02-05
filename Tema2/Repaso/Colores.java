@@ -1,6 +1,7 @@
 package EjerciciosRepaso;
 
-public final class ClaseColores {
+public final class Colores {
+	
 	public static final String RESET = "\u001B[0m";
 	public static final String BLACK = "\u001B[30m";
 	public static final String RED = "\u001B[31m";
@@ -20,7 +21,8 @@ public final class ClaseColores {
 	public static final String CYAN_BACKGROUND = "\u001B[46m";
 	public static final String WHITE_BACKGROUND = "\u001B[47m";
 	
-	public static final String BOLD = "\u001B[1m"; // Negrita
-	public static final String UNDERLINE = "\u001B[4m"; // Subrayado
-	public static final String REVERSED = "\u001B[7m"; // Invierte los colores del texto y del fondo
+	public static final String BOLD = "\u001B[1m";		// Negrita
+	public static final String UNDERLINE = "\u001B[4m";	// Subrayado
+	public static final String REVERSED = "\u001B[7m";	// Invierte los colores del texto y del fondo
+	
 }
