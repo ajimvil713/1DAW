@@ -1,4 +1,4 @@
-package EjerciciosRepaso;
+package Repaso;
 
 public final class Colores {
 	
