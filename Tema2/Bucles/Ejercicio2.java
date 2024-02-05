@@ -1,4 +1,4 @@
-package EjerciciosDeBucles;
+package EjerciciosDBucles;
 
 public class Ejercicio2 {
 
