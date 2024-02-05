@@ -1,4 +1,4 @@
-package EjerciciosRepaso;
+package Repaso;
 
 import java.util.Scanner;
 import static EjerciciosRepaso.ClaseColores.*;
