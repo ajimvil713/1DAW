@@ -1,4 +1,4 @@
-package EjerciciosIf;
+package If;
 
 import java.util.Scanner;
 
