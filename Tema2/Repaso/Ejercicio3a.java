@@ -1,7 +1,7 @@
-package EjercicioRepaso;
+package Repaso;
 
 import java.util.Scanner;
-import static EjerciciosRepaso.ClaseColores.*;
+import static Repaso.Colores.*;
 
 public class Ejercicio3a {
 	
