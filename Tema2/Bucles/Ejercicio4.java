@@ -1,4 +1,4 @@
-package EjerciciosDeBucles;
+package Bucles;
 
 import java.util.Scanner;
 
