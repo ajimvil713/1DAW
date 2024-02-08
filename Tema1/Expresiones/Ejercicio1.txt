@@ -1,7 +1,0 @@
-a) Variable valida
-b) Variable invalida
-c) Variable invalida
-d) Variable invalida
-e) Variable valida
-f) Varaible valida
-g) Variable valida
