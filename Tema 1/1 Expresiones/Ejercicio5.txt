@@ -1,0 +1,4 @@
+a) 10 == 19 || TRUE; FALSE || TRUE; TRUE -> Como el resultado ya es TRUE no es necesario añadir nada
+b) 10 >= 19 || 10 <= 19 && TRUE; FALSE || TRUE && TRUE; TRUE && TRUE; TRUE -> Como el resultado ya es TRUE no es necesario añadir nada
+c) !TRUE || TRUE; FALSE || TRUE; TRUE -> Como el resultado ya es TRUE no es necesario añadir nada
+d) !FALSE && FALSE; TRUE && FALSE; FALSE -> !(k && k), de esta manera se nos quedaría !(FALSE && FALSE); !FALSE; TRUE

@@ -1,0 +1,17 @@
+a) i = (990 - 10000) / 3; i = -10 / 3; i = -3
+b) i = 4 / 0; Error, no se puede dividir entre 0
+c) i = 3% (1000 - 990); i = 3% 10; i = 3
+d) i = (1000 - 990)% 3; i = 10% 3; i = 1
+e) i = 3.34 * 3; Error, no se ha realizado el casting
+f) x = 3 / 4; x = 0.0
+g) x = 3% (3 / 4); x = 3% 0; Error, no se puede dividir entre 0
+h) i = 3 / 4; i = 0
+i) i = ++3; i = 4;
+j) i = 3++; i = 3;
+k) Error, la sintaxis no es valia
+l) c = "
+m) Error, la sintaxis no es valida
+n) s = '
+o) s = Error, la sintaxis no es valida
+p) c = A
+q) c = A
